@@ -1,0 +1,107 @@
+body{
+
+}
+
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border:0;
+	height: 80px;
+
+}
+
+
+#custom {
+    margin-top: 0px;
+
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#logo-img{
+	height: 60px;
+	width:10px;
+}
+
+.navbar-brand h1{
+	color:blue;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	line-height: .75;
+
+}
+
+.navbar-brand p{
+	font-size: .7em;
+	margin-top: 10px;
+}
+
+.navbar-brand p span{
+	vertical-align: middle;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	color:blue;
+	text-align: center;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:1px solid #61122f;
+}
+
+.navbar-header button.navbar-toggle{
+	clear:both;
+	margin-top: -20px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+
+div .col-xs-12{
+	padding-top: 0px;
+	padding-bottom: 50px;
+	height: auto;
+	background-color: grey;
+
+	
+	
+
+}
+
+h1{
+	padding-bottom: 20px;
+}
+
+h2{
+	text-align: center;
+
+}
+
+div .row{
+	padding-right: 20px; 
+    padding-left: 20px;
+    
+}
+
+
