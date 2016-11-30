@@ -6,7 +6,7 @@ body{
 	background-color: #f6b319;
 	border-radius: 0;
 	border:0;
-	height: 80px;
+	height: auto;
 
 }
 
@@ -32,6 +32,7 @@ body{
 	text-transform: uppercase;
 	text-shadow: 1px 1px 1px #222;
 	line-height: .75;
+	margin-top: 0px;
 
 }
 
